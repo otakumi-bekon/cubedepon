@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2cad00a1c697049399ba1068c6a3ee38
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Molot
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b7576cf507f0f48e4b6805db6a5d993a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
